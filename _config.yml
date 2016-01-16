@@ -1,7 +1,7 @@
 name: HasegawaPhotos
 favicon: null
-layout_spectrum: 0.39268314046785235
-typography_spectrum: 0.3499712322372943
+layout_spectrum: 1
+typography_spectrum: 0.78361
 cta:
   domain: null
   bucket: null
